@@ -1,4 +1,4 @@
-# Programmierübungen in Python
+# Programmierübungen in Kotlin
 
 Datei | Übung
 ----- | -----------------
@@ -14,4 +14,3 @@ Schnurlaengen.kt | Schnurlängen [programmieraufgaben.ch](https://www.programmie
 SekundenUmwandlung.kt | Sekunden-Umwandlung [programmieraufgaben.ch](https://www.programmieraufgaben.ch/aufgabe/sekunden-umwandlung/sxmwsks3)
 SudokuSolver.kt | Sudoku lösen
 Waschautomat.kt | Waschautomat [programmieraufgaben.ch](https://www.programmieraufgaben.ch/aufgabe/waschautomat/vyyuvu3u)
-
